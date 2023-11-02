@@ -355,7 +355,7 @@
     </div>
 </template>
 
-<style>
+<style lang="scss">
     .app {
         padding: 1em;
         gap: 2em;
